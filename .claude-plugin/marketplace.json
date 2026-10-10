@@ -517,6 +517,38 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-travel"
       }
+    },
+    {
+      "name": "lhg-event-plan",
+      "description": "活动策划专家：目标→预算/排期/风险清单→执行手册→复盘",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-event-plan"
+      }
+    },
+    {
+      "name": "lhg-rebuttal",
+      "description": "论文返修专家：审稿意见→逐条回应→修改对照表→学术英语润色",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-rebuttal"
+      }
+    },
+    {
+      "name": "lhg-mobile-app",
+      "description": "移动App专家：想法→MVP范围→跨端选型→上架checklist",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-mobile-app"
+      }
+    },
+    {
+      "name": "lhg-cs-script",
+      "description": "客服话术专家：高频场景话术库+差评管理（review-care）+话术自查",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-cs-script"
+      }
     }
   ]
 }
