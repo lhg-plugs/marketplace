@@ -9,52 +9,162 @@
     {
       "name": "lhg-fullstack",
       "description": "小白一句话→高质量全栈应用：全栈开发组合拳（规划 / 前端 / 后端 / 自查 / 发布）",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-fullstack" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-fullstack"
+      }
     },
     {
       "name": "lhg-video-edit",
       "description": "口播剪辑专家：一句话把口播素材剪成爆款短视频（+口播脚本子命令）",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-video-edit" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-video-edit"
+      }
     },
     {
       "name": "lhg-wechat-article",
       "description": "公众号写作专家：选题到排版一气呵成",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-wechat-article" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-wechat-article"
+      }
     },
     {
       "name": "lhg-xiaohongshu",
       "description": "小红书种草专家：卖点到爆款笔记一键生成",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-xiaohongshu" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-xiaohongshu"
+      }
     },
     {
       "name": "lhg-resume",
       "description": "简历优化专家：ATS诊断到模拟面试一条龙",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-resume" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-resume"
+      }
     },
     {
       "name": "lhg-ppt",
       "description": "PPT制作专家：述职融资答辩一键成稿",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-ppt" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-ppt"
+      }
     },
     {
       "name": "lhg-excel",
       "description": "表格数据专家：清洗透视图表一条龙（操作日志+可回滚）",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-excel" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-excel"
+      }
     },
     {
       "name": "lhg-thesis",
       "description": "毕业论文助手：开题到盲审的写作流水线（学术诚信声明）",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-thesis" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-thesis"
+      }
     },
     {
       "name": "lhg-miniprogram",
       "description": "小程序开发专家：一句话生成微信小程序",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-miniprogram" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-miniprogram"
+      }
     },
     {
       "name": "lhg-contract",
       "description": "合同审查助手：风险条款标红+修改建议（非律师意见声明）",
-      "source": { "source": "github", "repo": "lhg-plugs/lhg-contract" }
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-contract"
+      }
+    },
+    {
+      "name": "lhg-geo",
+      "description": "AI搜索优化专家：让品牌在AI搜索中被引用与看见",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-geo"
+      }
+    },
+    {
+      "name": "lhg-poster",
+      "description": "海报设计专家：一句话生成手机端可读的海报",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-poster"
+      }
+    },
+    {
+      "name": "lhg-shopify",
+      "description": "独立站建站专家：从选品页到结账的开店流水线",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-shopify"
+      }
+    },
+    {
+      "name": "lhg-fiction",
+      "description": "网文写作专家：题材到逐章连载的写作流水线",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-fiction"
+      }
+    },
+    {
+      "name": "lhg-drama-script",
+      "description": "短剧剧本专家：题材到分集剧本的爆款流水线",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-drama-script"
+      }
+    },
+    {
+      "name": "lhg-lit-review",
+      "description": "文献综述专家：从文献收集到规范引用的写作流水线",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-lit-review"
+      }
+    },
+    {
+      "name": "lhg-salary-talk",
+      "description": "薪酬谈判专家：策略到话术演练的谈判准备",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-salary-talk"
+      }
+    },
+    {
+      "name": "lhg-biz-report",
+      "description": "商业分析报告专家：原始数据到图文报告一条龙",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-biz-report"
+      }
+    },
+    {
+      "name": "lhg-study-abroad",
+      "description": "留学文书专家：PS与推荐信的结构化写作",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-study-abroad"
+      }
+    },
+    {
+      "name": "lhg-meal-plan",
+      "description": "营养食谱专家：一周食谱与采购清单一键生成",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-meal-plan"
+      }
     }
   ]
 }
