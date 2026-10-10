@@ -245,6 +245,22 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-infographic"
       }
+    },
+    {
+      "name": "lhg-live-script",
+      "description": "直播话术专家：开播 3 秒留人钩子→五段式脚本→逼单倒计时→违禁词合规审计",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-live-script"
+      }
+    },
+    {
+      "name": "lhg-course-create",
+      "description": "课程制作专家：四段式大纲→口语化讲义→三档习题→试听课脚本，一致性自动审计",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-course-create"
+      }
     }
   ]
 }
