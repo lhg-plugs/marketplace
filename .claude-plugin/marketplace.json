@@ -405,6 +405,86 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-labor-rights"
       }
+    },
+    {
+      "name": "lhg-user-growth",
+      "description": "用户增长专家：杠杆诊断→可执行实验清单→复盘",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-user-growth"
+      }
+    },
+    {
+      "name": "lhg-growth-lab",
+      "description": "增长实验专家：假设→实验设计→显著性判定→复盘",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-growth-lab"
+      }
+    },
+    {
+      "name": "lhg-webscraper",
+      "description": "爬虫采集专家：合规方案→反爬应对→数据清洗（仅公开数据）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-webscraper"
+      }
+    },
+    {
+      "name": "lhg-sql",
+      "description": "SQL取数专家：业务问题→SQL生成→方言适配→性能自检",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-sql"
+      }
+    },
+    {
+      "name": "lhg-api-integration",
+      "description": "API对接专家：文档→鉴权→调用封装→重试限流→联调",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-api-integration"
+      }
+    },
+    {
+      "name": "lhg-email",
+      "description": "邮件营销专家：用户分层→序列邮件→送达率checklist",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-email"
+      }
+    },
+    {
+      "name": "lhg-ads",
+      "description": "广告投放专家：策略→素材清单→数据复盘（方法论非效果承诺）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-ads"
+      }
+    },
+    {
+      "name": "lhg-amazon-listing",
+      "description": "亚马逊运营专家：标题→五点→关键词→Listing评分",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-amazon-listing"
+      }
+    },
+    {
+      "name": "lhg-promo",
+      "description": "促销策划专家：玩法设计→利润测算→执行清单→复盘",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-promo"
+      }
+    },
+    {
+      "name": "lhg-user-research",
+      "description": "用户调研专家：问卷/访谈提纲→回收分析→洞察报告",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-user-research"
+      }
     }
   ]
 }
