@@ -261,6 +261,70 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-course-create"
       }
+    },
+    {
+      "name": "lhg-exam-maker",
+      "description": "出题组卷专家：知识点→蓝图→组卷→覆盖率脚本校验→答案解析一条龙",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-exam-maker"
+      }
+    },
+    {
+      "name": "lhg-weekly-review",
+      "description": "周报复盘专家：工作记录→结构化周报→亮点提炼→风险预警一条龙",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-weekly-review"
+      }
+    },
+    {
+      "name": "lhg-money-plan",
+      "description": "理财规划助手：收支→预算→储蓄目标规划（非投资建议、仅记账预算工具）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-money-plan"
+      }
+    },
+    {
+      "name": "lhg-finmodel",
+      "description": "财务建模专家：假设→三表搭建→勾稽校验→敏感性分析",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-finmodel"
+      }
+    },
+    {
+      "name": "lhg-mini-game",
+      "description": "H5游戏专家：一句话生成可玩的H5小游戏（含玩法模板库与裂变设计）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-mini-game"
+      }
+    },
+    {
+      "name": "lhg-browser-ext",
+      "description": "浏览器插件专家：一句话想法生成 MV3 浏览器插件（含上架 checklist）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-browser-ext"
+      }
+    },
+    {
+      "name": "lhg-bp",
+      "description": "商业计划书专家：项目→九章BP→投资人视角自检→路演版提炼",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-bp"
+      }
+    },
+    {
+      "name": "lhg-survey",
+      "description": "问卷分析专家：问卷数据→清洗→统计→图表→结论报告（防统计误用）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-survey"
+      }
     }
   ]
 }
