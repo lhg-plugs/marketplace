@@ -658,6 +658,38 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-landing-page"
       }
+    },
+    {
+      "name": "lhg-budget",
+      "description": "记账预算专家：一句话导入账单出月度报表+预算超支预警（非投资建议）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-budget"
+      }
+    },
+    {
+      "name": "lhg-earnings",
+      "description": "财报分析助手：财报丢进来→指标解读→风险清单（非投资建议）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-earnings"
+      }
+    },
+    {
+      "name": "lhg-tech-blog",
+      "description": "技术博客专家：技术主题一句话成文，代码示例自动校验",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-tech-blog"
+      }
+    },
+    {
+      "name": "lhg-solopreneur",
+      "description": "独立开发专家：想法验证→MVP界定→定价→冷启动一条龙（合规通用框架）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-solopreneur"
+      }
     }
   ]
 }
