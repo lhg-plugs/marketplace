@@ -1,5 +1,5 @@
 <!-- About 简介（推送后填写到仓库 About 栏）：
-小白专家插件市场：64 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace
+小白专家插件市场：70 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace
 -->
 <!-- topics（推送后打）：claude-code, claude-plugin, agent-skills, marketplace -->
 
@@ -103,3 +103,5 @@
 | [lhg-cs-script](https://github.com/lhg-plugs/lhg-cs-script) | 客服话术专家：高频场景话术库+差评管理（review-care）+话术自查 | `/plugin install lhg-cs-script@lhg-plugs` |
 | [lhg-startup-legal](https://github.com/lhg-plugs/lhg-startup-legal) | 创业法务助手：选型→注册→股权→协议一条龙（非律师意见） | `/plugin install lhg-startup-legal@lhg-plugs` |
 | [lhg-ip](https://github.com/lhg-plugs/lhg-ip) | 知产保护助手：四象限判断→申请流程→维权清单（非律师意见） | `/plugin install lhg-ip@lhg-plugs` |
+| [lhg-paper](https://github.com/lhg-plugs/lhg-paper) | 期刊论文助手：选题→IMRaD框架→分节写作→图表规范→投稿前自查→返修信 | `/plugin install lhg-paper@lhg-plugs` |
+| [lhg-grant](https://github.com/lhg-plugs/lhg-grant) | 基金申请助手：申请书框架→写作→评审模拟→预算表编制 | `/plugin install lhg-grant@lhg-plugs` |

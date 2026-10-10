@@ -549,6 +549,38 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-cs-script"
       }
+    },
+    {
+      "name": "lhg-paper",
+      "description": "期刊论文助手：选题→IMRaD框架→分节写作→图表规范→投稿前自查→返修信，学术诚信先行",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-paper"
+      }
+    },
+    {
+      "name": "lhg-grant",
+      "description": "基金申请助手：申请书框架→写作→评审模拟→预算表编制，评审偏好因机构而异仅供参考",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-grant"
+      }
+    },
+    {
+      "name": "lhg-startup-legal",
+      "description": "创业法务助手：选型→注册→股权→协议一条龙（非律师意见）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-startup-legal"
+      }
+    },
+    {
+      "name": "lhg-ip",
+      "description": "知产保护助手：四象限判断→申请流程→维权清单（非律师意见）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-ip"
+      }
     }
   ]
 }
