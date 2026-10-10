@@ -1,5 +1,5 @@
 <!-- About 简介（推送后填写到仓库 About 栏）：
-小白专家插件市场：81 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace
+小白专家插件市场：82 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace
 -->
 <!-- topics（推送后打）：claude-code, claude-plugin, agent-skills, marketplace -->
 
@@ -52,6 +52,7 @@
 | [lhg-course-create](https://github.com/lhg-plugs/lhg-course-create) | 课程制作专家：大纲→讲义→习题→试听课脚本 | `/plugin install lhg-course-create@lhg-plugs` |
 | [lhg-exam-maker](https://github.com/lhg-plugs/lhg-exam-maker) | 出题组卷专家：知识点→蓝图→组卷→覆盖率校验 | `/plugin install lhg-exam-maker@lhg-plugs` |
 | [lhg-weekly-review](https://github.com/lhg-plugs/lhg-weekly-review) | 周报复盘专家：记录→结构化周报→亮点→风险预警 | `/plugin install lhg-weekly-review@lhg-plugs` |
+| [lhg-budget](https://github.com/lhg-plugs/lhg-budget) | 记账预算专家：一句话导入账单出月度报表+预算超支预警（非投资建议） | `/plugin install lhg-budget@lhg-plugs` |
 | [lhg-money-plan](https://github.com/lhg-plugs/lhg-money-plan) | 理财规划助手：收支→预算→储蓄目标（非投资建议） | `/plugin install lhg-money-plan@lhg-plugs` |
 | [lhg-finmodel](https://github.com/lhg-plugs/lhg-finmodel) | 财务建模专家：假设→三表搭建→勾稽校验→敏感性分析 | `/plugin install lhg-finmodel@lhg-plugs` |
 | [lhg-mini-game](https://github.com/lhg-plugs/lhg-mini-game) | H5游戏专家：一句话生成可玩H5小游戏 | `/plugin install lhg-mini-game@lhg-plugs` |
@@ -114,3 +115,4 @@
 | [lhg-tax](https://github.com/lhg-plugs/lhg-tax) | 个人税务助手：收入构成、扣除项清单、申报 checklist 整理（仅供参考） | `/plugin install lhg-tax@lhg-plugs` |
 | [lhg-auto-test](https://github.com/lhg-plugs/lhg-auto-test) | 自动测试专家：一句话生成测试用例与可执行脚本 | `/plugin install lhg-auto-test@lhg-plugs` |
 | [lhg-kids-code](https://github.com/lhg-plugs/lhg-kids-code) | 少儿编程备课助手：知识点→趣味教案→示例→课堂游戏→练习（需成人审核） | `/plugin install lhg-kids-code@lhg-plugs` |
+| [lhg-earnings](https://github.com/lhg-plugs/lhg-earnings) | 财报分析助手：财报丢进来→指标解读→风险清单（非投资建议） | `/plugin install lhg-earnings@lhg-plugs` |
