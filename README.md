@@ -1,5 +1,5 @@
 <!-- About 简介（推送后填写到仓库 About 栏）：
-小白专家插件市场：70 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace
+小白专家插件市场：72 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace
 -->
 <!-- topics（推送后打）：claude-code, claude-plugin, agent-skills, marketplace -->
 
