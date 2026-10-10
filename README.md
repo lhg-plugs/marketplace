@@ -1,5 +1,5 @@
 <!-- About 简介（推送后填写到仓库 About 栏）：
-小白专家插件市场：72 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace
+小白专家插件市场：78 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace
 -->
 <!-- topics（推送后打）：claude-code, claude-plugin, agent-skills, marketplace -->
 
@@ -105,3 +105,9 @@
 | [lhg-ip](https://github.com/lhg-plugs/lhg-ip) | 知产保护助手：四象限判断→申请流程→维权清单（非律师意见） | `/plugin install lhg-ip@lhg-plugs` |
 | [lhg-paper](https://github.com/lhg-plugs/lhg-paper) | 期刊论文助手：选题→IMRaD框架→分节写作→图表规范→投稿前自查→返修信 | `/plugin install lhg-paper@lhg-plugs` |
 | [lhg-grant](https://github.com/lhg-plugs/lhg-grant) | 基金申请助手：申请书框架→写作→评审模拟→预算表编制 | `/plugin install lhg-grant@lhg-plugs` |
+| [lhg-rental](https://github.com/lhg-plugs/lhg-rental) | 租房避坑助手：合同审查→押金/中介坑清单→纠纷应对模板 | `/plugin install lhg-rental@lhg-plugs` |
+| [lhg-secondhand](https://github.com/lhg-plugs/lhg-secondhand) | 二手避坑助手：验机清单→价格评估→交易安全模板 | `/plugin install lhg-secondhand@lhg-plugs` |
+| [lhg-experiment](https://github.com/lhg-plugs/lhg-experiment) | 实验设计专家：假设→实验设计→功效测算→结果解读 | `/plugin install lhg-experiment@lhg-plugs` |
+| [lhg-patent](https://github.com/lhg-plugs/lhg-patent) | 专利撰写助手：交底书→权利要求书→说明书→新创性自检（需代理人复核） | `/plugin install lhg-patent@lhg-plugs` |
+| [lhg-wedding](https://github.com/lhg-plugs/lhg-wedding) | 婚礼策划专家：预算→流程→供应商清单→当天执行手册 | `/plugin install lhg-wedding@lhg-plugs` |
+| [lhg-fund-dca](https://github.com/lhg-plugs/lhg-fund-dca) | 基金定投助手：目标→定投计划→筛选框架→纪律执行（非投资建议） | `/plugin install lhg-fund-dca@lhg-plugs` |
