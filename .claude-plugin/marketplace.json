@@ -165,6 +165,86 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-meal-plan"
       }
+    },
+    {
+      "name": "lhg-headline",
+      "description": "爆款标题专家：多平台标题公式生成+合规检测+点击率打分",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-headline"
+      }
+    },
+    {
+      "name": "lhg-logo",
+      "description": "Logo设计专家：品牌概念→几何规范→多尺寸导出自检",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-logo"
+      }
+    },
+    {
+      "name": "lhg-ecom-design",
+      "description": "电商视觉专家：卖点到高点击主图一键策划",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-ecom-design"
+      }
+    },
+    {
+      "name": "lhg-ecom-report",
+      "description": "电商复盘专家：店铺数据到周/月复盘报告",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-ecom-report"
+      }
+    },
+    {
+      "name": "lhg-lesson-plan",
+      "description": "课程设计专家：课标对齐→教案课件→知识点覆盖校验",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-lesson-plan"
+      }
+    },
+    {
+      "name": "lhg-dashboard",
+      "description": "数据看板专家：指标体系→看板布局→图表规范校验",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-dashboard"
+      }
+    },
+    {
+      "name": "lhg-competitor",
+      "description": "竞品分析专家：维度框架→对比矩阵→差异化建议",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-competitor"
+      }
+    },
+    {
+      "name": "lhg-social-ops",
+      "description": "社媒运营专家：账号定位→内容日历→数据复盘（策略版）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-social-ops"
+      }
+    },
+    {
+      "name": "lhg-book-translate",
+      "description": "书籍翻译专家：术语锁定→章节翻译→一致性审计",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-book-translate"
+      }
+    },
+    {
+      "name": "lhg-infographic",
+      "description": "信息图表专家：数据→图表选型→Canvas绘制→可读性审计",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-infographic"
+      }
     }
   ]
 }
