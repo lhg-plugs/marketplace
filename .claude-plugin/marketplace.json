@@ -642,6 +642,22 @@
       "name": "lhg-tax",
       "description": "个人税务助手：收入构成梳理、专项附加扣除清单、申报材料 checklist、时间节点提醒（仅做信息整理，仅供参考）",
       "source": "https://github.com/lhg-plugs/lhg-tax"
+    },
+    {
+      "name": "lhg-kids-code",
+      "description": "少儿编程备课助手：知识点→趣味教案→Scratch/Python示例→课堂游戏→课后练习（需成人审核）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-kids-code"
+      }
+    },
+    {
+      "name": "lhg-landing-page",
+      "description": "落地页专家：一句话生成高转化营销落地页（卖点提炼 / 线框结构 / 高保真实现 / 转化自检 / 部署指引）",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-landing-page"
+      }
     }
   ]
 }
