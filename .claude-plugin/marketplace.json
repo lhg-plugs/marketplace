@@ -407,7 +407,7 @@
       }
     },
     {
-      "name": "lhg-user-growth",
+"name": "lhg-user-growth",
       "description": "用户增长专家：杠杆诊断→可执行实验清单→复盘",
       "source": {
         "source": "github",
@@ -484,6 +484,22 @@
       "source": {
         "source": "github",
         "repo": "lhg-plugs/lhg-user-research"
+      }
+    },
+    {
+      "name": "lhg-insurance",
+      "description": "保险配置助手：家庭保障缺口分析→四险种配置方案→条款坑点清单；仅知识科普，非持牌保险建议",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-insurance"
+      }
+    },
+    {
+      "name": "lhg-pr",
+      "description": "PR发稿专家：事件→通稿三版本→媒体清单→发布节奏表；5W1H/引言出处/极限词/错别字自查",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-pr"
       }
     }
   ]
