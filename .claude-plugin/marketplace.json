@@ -637,6 +637,11 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-auto-test"
       }
+    },
+    {
+      "name": "lhg-tax",
+      "description": "个人税务助手：收入构成梳理、专项附加扣除清单、申报材料 checklist、时间节点提醒（仅做信息整理，仅供参考）",
+      "source": "https://github.com/lhg-plugs/lhg-tax"
     }
   ]
 }
