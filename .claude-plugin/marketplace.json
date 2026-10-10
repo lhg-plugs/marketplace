@@ -629,6 +629,14 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-fund-dca"
       }
+    },
+    {
+      "name": "lhg-auto-test",
+      "description": "自动测试专家：一句话生成测试用例（三类覆盖）与可执行测试脚本",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-auto-test"
+      }
     }
   ]
 }
