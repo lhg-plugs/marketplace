@@ -407,7 +407,7 @@
       }
     },
     {
-"name": "lhg-user-growth",
+      "name": "lhg-user-growth",
       "description": "用户增长专家：杠杆诊断→可执行实验清单→复盘",
       "source": {
         "source": "github",
@@ -500,6 +500,22 @@
       "source": {
         "source": "github",
         "repo": "lhg-plugs/lhg-pr"
+      }
+    },
+    {
+      "name": "lhg-job-desc",
+      "description": "JD撰写专家：岗位信息→职责/任职资格撰写→JD评分→多版本输出（招聘网站版/内推版），18条审计规则",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-job-desc"
+      }
+    },
+    {
+      "name": "lhg-travel",
+      "description": "旅行规划专家：目的地/天数/预算/偏好→日行程→POI清单→预算表→打包清单，16条审计规则",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-travel"
       }
     }
   ]
