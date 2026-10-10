@@ -325,6 +325,86 @@
         "source": "github",
         "repo": "lhg-plugs/lhg-survey"
       }
+    },
+    {
+      "name": "lhg-podcast",
+      "description": "小白一句话→一期播客节目：选题、大纲、录制指引（设备/环境/话术）、剪辑清单、shownotes、封面与 RSS 分发，全流程一次配齐。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-podcast"
+      }
+    },
+    {
+      "name": "lhg-motion-video",
+      "description": "小白一句话→动效视频：片头/转场需求→导演brief与拍点网格→纯代码渲染方案（seek(t)确定性渲染）→成片导出，一套动效组合拳。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-motion-video"
+      }
+    },
+    {
+      "name": "lhg-sci-figure",
+      "description": "学术图表专家：数据→期刊配图规范→图表生成→规范脚本校验；DPI/字体/线宽/色彩模式/子图编号/图例全套硬门，投稿前一次过关。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-sci-figure"
+      }
+    },
+    {
+      "name": "lhg-sop",
+      "description": "SOP沉淀专家：流程访谈提纲→SOP文档生成→可验证检查清单→版本管理；步骤编号/责任人/检查项/术语一致性全套硬门。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-sop"
+      }
+    },
+    {
+      "name": "lhg-pet-care",
+      "description": "小白养宠不踩坑：宠物档案建档→驱虫/疫苗/饮食时间表→健康 checklist，一句话生成全年养护计划，49 条确定性规则自检。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-pet-care"
+      }
+    },
+    {
+      "name": "lhg-oss-launch",
+      "description": "开源冷启动专家：项目信息挖掘→README（含 GEO 答案块）→launch 素材（推文/帖子/演示文案）→一键成片指引，49 条发布前自检。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-oss-launch"
+      }
+    },
+    {
+      "name": "lhg-community",
+      "description": "小白一句话→能留人的社群：社群定位、入群SOP、内容日历、转化话术、流失召回，流程与内容资产一次配齐。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-community"
+      }
+    },
+    {
+      "name": "lhg-taobao",
+      "description": "小白一句话→淘宝店铺运营全流程：选品、上架、标题/主图优化、数据复盘，方法论与检查清单一次配齐。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-taobao"
+      }
+    },
+    {
+      "name": "lhg-product-pick",
+      "description": "跨境选品专家：目标市场定位→五维选品打分表→供应链 checklist→禁售/合规风险清单；只给评估框架，数据需用户自行核实。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-product-pick"
+      }
+    },
+    {
+      "name": "lhg-labor-rights",
+      "description": "劳动维权助手：纠纷场景判定→仲裁/诉讼流程指引→仲裁申请书与证据清单模板→证据三要素体检；非律师意见、仅供参考。",
+      "source": {
+        "source": "github",
+        "repo": "lhg-plugs/lhg-labor-rights"
+      }
     }
   ]
 }
