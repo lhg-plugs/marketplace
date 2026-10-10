@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "lhg-plugs",
+  "owner": {
+    "name": "刘洪光",
+    "url": "https://github.com/lhg-skills"
+  },
+  "plugins": [
+    {
+      "name": "lhg-fullstack",
+      "description": "小白一句话→高质量全栈应用：全栈开发组合拳（规划 / 前端 / 后端 / 自查 / 发布）",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-fullstack" }
+    },
+    {
+      "name": "lhg-video-edit",
+      "description": "口播剪辑专家：一句话把口播素材剪成爆款短视频（+口播脚本子命令）",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-video-edit" }
+    },
+    {
+      "name": "lhg-wechat-article",
+      "description": "公众号写作专家：选题到排版一气呵成",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-wechat-article" }
+    },
+    {
+      "name": "lhg-xiaohongshu",
+      "description": "小红书种草专家：卖点到爆款笔记一键生成",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-xiaohongshu" }
+    },
+    {
+      "name": "lhg-resume",
+      "description": "简历优化专家：ATS诊断到模拟面试一条龙",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-resume" }
+    },
+    {
+      "name": "lhg-ppt",
+      "description": "PPT制作专家：述职融资答辩一键成稿",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-ppt" }
+    },
+    {
+      "name": "lhg-excel",
+      "description": "表格数据专家：清洗透视图表一条龙（操作日志+可回滚）",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-excel" }
+    },
+    {
+      "name": "lhg-thesis",
+      "description": "毕业论文助手：开题到盲审的写作流水线（学术诚信声明）",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-thesis" }
+    },
+    {
+      "name": "lhg-miniprogram",
+      "description": "小程序开发专家：一句话生成微信小程序",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-miniprogram" }
+    },
+    {
+      "name": "lhg-contract",
+      "description": "合同审查助手：风险条款标红+修改建议（非律师意见声明）",
+      "source": { "source": "github", "repo": "lhg-plugs/lhg-contract" }
+    }
+  ]
+}
