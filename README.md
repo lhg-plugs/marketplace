@@ -96,7 +96,7 @@
 本市场由真人出镜 IP「刘洪光」（安徽合肥）出品，归属 [lhg-skills](https://github.com/lhg-skills)。
 
 - GitHub 主页：https://github.com/lhg-skills —— 全部 skill 开源在此，欢迎 star
-- 视频号：搜「刘洪光实名上网」
+- 抖音：搜「刘老师讲AI实战」
 - 微信：lhgsmsw
 | [lhg-event-plan](https://github.com/lhg-plugs/lhg-event-plan) | 活动策划专家：目标→预算/排期/风险清单→执行手册→复盘 | `/plugin install lhg-event-plan@lhg-plugs` |
 | [lhg-rebuttal](https://github.com/lhg-plugs/lhg-rebuttal) | 论文返修专家：审稿意见→逐条回应→修改对照表→学术英语润色 | `/plugin install lhg-rebuttal@lhg-plugs` |
