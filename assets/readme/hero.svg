@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="420" viewBox="0 0 1200 420"
+     role="img" aria-labelledby="title desc">
+  <title id="title">lhg-plugs — 小白专家插件市场：86 个一句话调用的垂直领域插件</title>
+  <desc id="desc">lhg-plugs 插件市场：86 个 Claude Code 插件，覆盖开发、内容、商业、学术、生活六大类，每个插件都是某垂直方向的最佳方法论 + 确定性自查 + 硬门护栏。</desc>
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="26" fill="#0C1210"/>
+  <line x1="688" y1="48" x2="688" y2="372" stroke="#234034" stroke-width="1.5"/>
+  <g id="title-block">
+    <text class="mono" x="56" y="80" font-size="17" letter-spacing="2" fill="#3ECF8E">CLAUDE CODE MARKETPLACE · LHG-PLUGS</text>
+    <text class="sans" x="56" y="142" font-size="54" font-weight="700" fill="#EDF2EF">lhg-plugs</text>
+    <text class="sans" x="56" y="188" font-size="23" font-weight="600" fill="#EDF2EF">小白专家插件市场</text>
+    <text class="sans" x="56" y="220" font-size="20" fill="#8A9A92">86 个垂直插件，一句话调用专家。</text>
+    <rect x="56" y="248" width="600" height="52" rx="10" fill="#131E19" stroke="#234034" stroke-width="1.5"/>
+    <text class="mono" x="76" y="281" font-size="16" fill="#3ECF8E">/plugin marketplace add lhg-plugs/marketplace</text>
+    <text class="sans" x="56" y="340" font-size="17" fill="#8A9A92">86 插件 · 6 大分类 · 每个插件自带确定性自查 · MIT</text>
+  </g>
+  <g id="capability">
+    <text class="mono" x="720" y="80" font-size="16" letter-spacing="2" fill="#3ECF8E">MARKETPLACE · 一句话调用</text>
+    <g><rect x="720" y="96" width="424" height="56" rx="10" fill="#111B16"/><text class="sans" x="744" y="121" font-size="20" font-weight="700" fill="#EDF2EF">插件总数</text><text class="sans" x="1116" y="124" font-size="24" font-weight="700" fill="#3ECF8E" text-anchor="end">86</text><text class="sans" x="744" y="142" font-size="16" fill="#8A9A92">数自 .claude-plugin/marketplace.json</text></g>
+    <g><rect x="720" y="160" width="424" height="56" rx="10" fill="#111B16"/><text class="sans" x="744" y="185" font-size="20" font-weight="700" fill="#EDF2EF">覆盖分类</text><text class="sans" x="1116" y="188" font-size="24" font-weight="700" fill="#3ECF8E" text-anchor="end">6</text><text class="sans" x="744" y="206" font-size="16" fill="#8A9A92">开发 / 内容 / 商业 / 学术 / 生活 / 办公</text></g>
+    <g><rect x="720" y="224" width="424" height="56" rx="10" fill="#111B16"/><text class="sans" x="744" y="249" font-size="20" font-weight="700" fill="#EDF2EF">每个插件</text><text class="sans" x="1116" y="252" font-size="24" font-weight="700" fill="#3ECF8E" text-anchor="end">✓</text><text class="sans" x="744" y="270" font-size="16" fill="#8A9A92">方法论 + 确定性自查 + 硬门护栏</text></g>
+    <g><rect x="720" y="288" width="424" height="56" rx="10" fill="#111B16"/><text class="sans" x="744" y="313" font-size="20" font-weight="700" fill="#EDF2EF">安装方式</text><text class="sans" x="1116" y="316" font-size="24" font-weight="700" fill="#3ECF8E" text-anchor="end">2 行</text><text class="sans" x="744" y="334" font-size="16" fill="#8A9A92">marketplace add + install 插件名</text></g>
+  </g>
+</svg>
